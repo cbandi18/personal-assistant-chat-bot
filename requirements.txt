@@ -1,0 +1,12 @@
+#backend
+fastapi
+uvicorn
+openai
+pinecone-client
+langchain
+transformers
+torch
+
+#frontend
+streamlit
+requests
